@@ -1,0 +1,21 @@
+img {
+  float: right;
+}
+.sidebar {
+  background-color: skyblue;
+  float: left;
+  width: 30%;
+}
+h1 {
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+body {
+  background-color: black
+}
+.letters {
+  font-style: italic;
+  color: white
+}
